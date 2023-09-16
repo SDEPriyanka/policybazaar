@@ -17,7 +17,7 @@ function Contact() {
           <div className="col-md-3 seq-circl-section">
             <div className="seq-circle">
               {" "}
-              <p> 0%</p>{" "}
+              <p> 75%</p>{" "}
             </div>
           </div>
         </div>
@@ -32,31 +32,31 @@ function Contact() {
           type="number"
           className="phone"
           id="phone"
-          placeholder="Phone.no"
+          placeholder="+91 xxxxxxxxxxx"
         />
       </div>
 
-      <div className="contact-list mt-5 card ">
+      <div className="contact-list mt-5 card  pt-3">
         <ul>
           <li>
             <FontAwesomeIcon icon={faCheck} /><span className="list-color">56+ plans found</span> 
           </li>
           <li>
-            <FontAwesomeIcon icon={faCheck} /><span className="list-color">56+ plans found</span>From 12+ insurers
+            <FontAwesomeIcon icon={faCheck} /><span className="list-color">From 12+ insurers</span>
           </li>
 
           <li>
-            <FontAwesomeIcon icon={faCheck} /> <span className="list-color">56+ plans found</span>Starting @387/month
+            <FontAwesomeIcon icon={faCheck} /> <span className="list-color">Starting @387/month</span>
           </li>
 
           <li>
-            <FontAwesomeIcon icon={faCheck} /> <span className="list-color">56+ plans found</span>1080+ cashless hospital network
-            in your city
+            <FontAwesomeIcon icon={faCheck} /> <span className="list-color">1080+ cashless hospital network
+            in your city</span>
           </li>
         </ul>
       </div>
 
-      <div className="button-acion text-center   mt-3 mb-5">
+      <div className="button-acion text-center   mt-5 mb-5">
         <div className="previous col-md-12">
           <div className="row">
             <div className="col-md-4">

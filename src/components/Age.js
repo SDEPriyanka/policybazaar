@@ -30,7 +30,7 @@ function Age() {
           <div className="col-md-3 seq-circl-section">
             <div className="seq-circle">
               {" "}
-              <p> 0%</p>{" "}
+              <p> 25%</p>{" "}
             </div>
           </div>
         </div>

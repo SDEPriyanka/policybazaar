@@ -26,7 +26,7 @@ function City() {
           <div className="col-md-3 seq-circl-section">
             <div className="seq-circle">
               {" "}
-              <p> 0%</p>{" "}
+              <p> 50%</p>{" "}
             </div>
           </div>
         </div>

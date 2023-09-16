@@ -335,11 +335,9 @@ p {
   color: rgb(0, 55, 255);
   
 }
-.contact-list ul li i{
-  color: rgb(0, 55, 255);
-  border-radius: 100%;
-  background-color: #deebff;
-
+.list-color{
+  color: #898888;
+  padding-left: 15px;
 }
   
 
